@@ -1,0 +1,14 @@
+h1 {
+    color: rgb(255, 215, 130);
+}
+
+body {
+    background-color: rgb(43, 46, 54);
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.button {
+    padding: 10px;
+}
